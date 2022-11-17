@@ -1,2 +1,4 @@
 # ok-graphics
-Okcash graphics and vectors for users, services and merchants.
+Okcash graphics for users, services, games and merchants.
+
+![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
