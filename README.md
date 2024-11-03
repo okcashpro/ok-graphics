@@ -1,15 +1,15 @@
-# Okcash Graphics Repository
+# OK Branding Kit - Okcash Graphics Repository
 
 Welcome to the **ok-graphics** repository! Here, you'll find a comprehensive collection of Okcash graphics tailored for users, services, games, and merchants. Whether you're looking to enhance your website with Okcash branding, add OK to your game as an in-game currency, or showcase your support for Okcash as a merchant, this repository has you covered.
 
 ## What's Inside?
 
 This repository hosts a variety of graphics assets including:
-- Logos
-- Banners
-- Icons
-- Wallet graphics
-- And much more!
+- OK Logo
+- OK Icons
+- Okcash brand
+- Banners for Vendors
+- And more!
 
 All assets are available for use under the [MIT License](LICENSE), offering flexibility for both commercial and non-commercial projects.
 
